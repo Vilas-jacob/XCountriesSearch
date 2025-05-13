@@ -1,0 +1,16 @@
+.SearchBar{
+    display: flex;
+    border-bottom: 0px solid gray;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    padding: 20px;
+    background-color: gainsboro;
+    justify-content: center;
+    align-items: center;
+}
+
+.SearchBar input {
+    width: 400px;
+    height: 30px;
+    font-size: 16px;
+    padding: 10px;
+}
