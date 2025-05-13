@@ -5,7 +5,7 @@
     padding: 20px;
     
 }
-.card{
+.countryCard{
     border: 1px solid grey;
     border-radius: 10px;
     padding: 10px;
@@ -16,7 +16,7 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
-.card img{
+.countryCard img{
     width: 150px;
     height: auto;
 }

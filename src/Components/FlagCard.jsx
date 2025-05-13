@@ -30,7 +30,7 @@ function FlagCard({searchString}) {
     <div>
         <div className='card-list'>
             {filteredCountry.map((country)=>(
-                <div className='card' key={country.common}>
+                <div className='countryCard' key={country.common}>
                     <img src={country.png} alt={`${country.common} Flag`} 
                     
                     />
